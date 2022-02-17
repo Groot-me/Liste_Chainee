@@ -1,14 +1,18 @@
-/*
- * @author
- *
- */
-
+/**
+**
+** __ShortDescription__ :
+**
+**  - Petit Programme pour comprendre le fonctionnement des listes chainees
+**
+** @author Copyright (C) 17/02/22 GrootMe
+**
+**/
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <termios.h>
 
-struct termios info; // for the press the key automatic
+struct termios info; // for press the key automatic
 
 
 
