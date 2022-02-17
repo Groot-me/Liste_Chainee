@@ -1,5 +1,5 @@
 ## Liste_Chainee
-Petit Programme en C pour s'amuser avec des listes chainées
+Petit Programme en C pour comprendre le fonctionnement des listes chainées
 
 #### Pour compiler le programme : 
 
